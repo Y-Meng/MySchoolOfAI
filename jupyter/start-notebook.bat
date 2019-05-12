@@ -1,1 +1,1 @@
-jupyter notebook
+start "" cmd /k "conda activate fastai&&jupyter notebook"
